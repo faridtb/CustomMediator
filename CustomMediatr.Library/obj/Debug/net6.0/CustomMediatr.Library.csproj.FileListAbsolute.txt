@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\bin\Debug\net6.0\CustomMediatr.Library.deps.json
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\bin\Debug\net6.0\CustomMediatr.Library.dll
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\bin\Debug\net6.0\CustomMediatr.Library.pdb
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\CustomMediatr.Library.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\CustomMediatr.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\CustomMediatr.Library.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\CustomMediatr.Library.AssemblyInfo.cs
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\CustomMediatr.Library.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\CustomMediatr.Library.dll
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\refint\CustomMediatr.Library.dll
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\CustomMediatr.Library.pdb
+C:\Users\User\Desktop\CustomMediatr\CustomMediatr.Library\obj\Debug\net6.0\ref\CustomMediatr.Library.dll
